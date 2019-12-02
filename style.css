@@ -75,6 +75,7 @@ a:hover{
 #introduction p {
 	margin: 40px;
 	margin-top: 40px;
+	font-size:14;
 }	
 
 @media (max-width: 960px) {
